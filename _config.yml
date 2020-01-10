@@ -69,7 +69,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 410331bd5619608b166d
   clientSecret: 0f1ff3f286ba04e15d25ab488f5aefb13f60f257
-  repo: https://needquiet.github.io/
+  repo: needquiet.github.io
   owner: NeedQuiet
 
 # 输入Google Analytics web tracking code

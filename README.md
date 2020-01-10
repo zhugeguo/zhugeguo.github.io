@@ -7,6 +7,7 @@ NeedQuiet的个人博客仓库。
 ### 致谢
 
 本站原始主题来自Jekyll主题[LOFFER](https://fromendworld.github.io/LOFFER/)
+
 本站Fork了lemonchann的主题[lemonchann](https://lemonchann.github.io)
 
 ### 参考文档

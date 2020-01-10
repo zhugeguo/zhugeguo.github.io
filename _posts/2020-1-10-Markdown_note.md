@@ -13,35 +13,42 @@ toc: true
 目录：F1后Create Table of Content即可创建目录，看样子是根据标题来自动同步Table,；
 LOFFER 自带目录，就不创建了，支持不太好
 
+
+<!-- more -->
+
 ## 1.标题
   - 控制标题大小快捷键
     - 变大 shift + ctrl + [ 
     - 缩小 shift + ctrl + ]
+
 ## 2.锚点
 可以利用html的a标签，进行锚点跳转，例：A、B互跳
   ><a id="text" href="#sssss">锚点A</a>
 
   ><a id="sssss" href="#text">锚点B</a>
+
   ```html
   <a id="text" href="#sssss">锚点A</a>
   <a id="sssss" href="#text">锚点B</a>
   ```
 
 ## 3.代码块
-1. Python示例(```python)
+1. Python
 ```python
+# 示例 ```python
 import os
-#asdasdasdasd
 print('python 代码块？')
 ```
+
 2. html示例(```html)
 ```html
+<!-- 示例 ```python -->
 <h1>哎哟不错哦</h1>
 ```
-3. OC示例(```ObjectiveC)
+3. OC
 ```ObjectiveC
 int a = 0;
-// asdasdasd
+// 示例 ```ObjectiveC
 NSArray * testArr = @[@"asdasd",@"awww"];
 UIlabel * a = [[UILabel alloc]init];
 ```

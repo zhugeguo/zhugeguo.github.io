@@ -59,7 +59,7 @@ footer-links:
   youtube:
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 lemonchann
+footer-text: Copyright (c) 2020 大宁
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -67,10 +67,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: 
+  clientSecret: 
+  repo: needquiet.github.io
+  owner: needquiet
 
 # 输入Google Analytics web tracking code
 google_analytics: # UA-152888548-1

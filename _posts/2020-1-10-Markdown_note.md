@@ -40,7 +40,7 @@ import os
 print('python 代码块？')
 ```
 
-2. html示例(```html)
+2. html
 ```html
 <!-- 示例 ```python -->
 <h1>哎哟不错哦</h1>
@@ -80,7 +80,7 @@ UIlabel * a = [[UILabel alloc]init];
   ***
 - 插入视频：
 
-<video id="video" controls="" width="200px" height="300px" preload="none" poster="https://i.loli.net/2020/01/09/n9bcw14OXN82lMD.png">
+<video id="video" controls="" width="300px" height="200px" preload="none" poster="https://i.loli.net/2020/01/09/n9bcw14OXN82lMD.png">
   <source id="mp4" src="https://video.pearvideo.com/mp4/third/20200109/cont-1640431-10042874-102056-hd.mp4" type="video/mp4">
 </video>
 

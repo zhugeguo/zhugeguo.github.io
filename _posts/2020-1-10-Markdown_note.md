@@ -80,7 +80,7 @@ UIlabel * a = [[UILabel alloc]init];
   ***
 - 插入视频：
 
-<video id="video" controls="" preload="none" poster="https://i.loli.net/2020/01/09/n9bcw14OXN82lMD.png">
+<video id="video" controls="" width="200px" height="300px" preload="none" poster="https://i.loli.net/2020/01/09/n9bcw14OXN82lMD.png">
   <source id="mp4" src="https://video.pearvideo.com/mp4/third/20200109/cont-1640431-10042874-102056-hd.mp4" type="video/mp4">
 </video>
 

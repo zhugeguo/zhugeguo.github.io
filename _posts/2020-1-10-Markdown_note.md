@@ -42,9 +42,10 @@ print('python 代码块？')
 
 2. html
 ```html
-<!-- 示例 ```python -->
+<!-- 示例 ```html -->
 <h1>哎哟不错哦</h1>
 ```
+
 3. OC
 ```ObjectiveC
 int a = 0;

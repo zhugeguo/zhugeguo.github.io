@@ -67,8 +67,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: 410331bd5619608b166d
+  clientSecret: 0f1ff3f286ba04e15d25ab488f5aefb13f60f257
   repo: needquiet.github.io
   owner: needquiet
 

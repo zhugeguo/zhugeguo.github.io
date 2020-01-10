@@ -8,17 +8,10 @@ author: 大宁
 toc: true
 ---
 
-#   MarkDown
 概述：简单记录一下vscode上使用markdown all in one插件后，简单的markdown写法
 
-目录：F1后Create Table of Content即可创建目录，看样子是根据标题来自动同步Table
-- [MarkDown](#markdown)
-  - [1.标题](#1%e6%a0%87%e9%a2%98)
-  - [2.锚点](#2%e9%94%9a%e7%82%b9)
-  - [3.代码块](#3%e4%bb%a3%e7%a0%81%e5%9d%97)
-  - [4.菜单](#4%e8%8f%9c%e5%8d%95)
-  - [5.常用语法](#5%e5%b8%b8%e7%94%a8%e8%af%ad%e6%b3%95)
-  - [6.常用快捷键](#6%e5%b8%b8%e7%94%a8%e5%bf%ab%e6%8d%b7%e9%94%ae)
+目录：F1后Create Table of Content即可创建目录，看样子是根据标题来自动同步Table,；
+LOFFER 自带目录，就不创建了，支持不太好
 
 ## 1.标题
   - 控制标题大小快捷键

@@ -35,7 +35,7 @@ LOFFER 自带目录，就不创建了，支持不太好
 ## 3.代码块
 1. Python
 ```python
-# 示例 3个反斜杠python
+# 示例 3个反单引号python
 import os
 print('python 代码块？')
 ```
@@ -45,13 +45,13 @@ print('python 代码块？')
 int a = 0;
 NSArray * testArr = @[@"asdasd",@"awww"];
 UIlabel * a = [[UILabel alloc]init];
-// 示例 3个反斜杠ObjectiveC
+// 示例 3个反单引号ObjectiveC
 ```
 
 3. html
 ```html
 <h1>test</h1>
-<!-- 示例 3个反斜杠html -->
+<!-- 示例 3个反单引号html -->
 ```
 
 ## 4.菜单

@@ -1,50 +1,53 @@
 #
-# This file contains configuration flags to customize your site
+# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
 #
 
-# Name of your site (displayed in the header)
-name: "lemonchann's blog"
-# Short bio or description (displayed in the header)
-description: "learning and practicing make skillfull"
+# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
+# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
+# 井号后面的文字是说明文档，不会被程序读取。
+name: "大宁的blog"
+# 描述/签名
+description: "梧高凤必至，花香蝶自来"
 
 #
-# Flags below are optional
+# 下面的设定都是可选的
 #
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/blog.jpg
+# 你的博客logo图片URL，建议尺寸不超过300px × 300px
+avatar: https://github.com/NeedQuiet/needquiet.github.io/blob/master/images/blog.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/NeedQuiet/needquiet.github.io/blob/master/images/favicon.ico
 
-# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
+# # 菜单中的按钮.
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: 首页
     url: /
-  - name: About
+  - name: 关于
     url: /about
-  - name: Archive
+  - name: 归档
     url: /archive
-  - name: Tags
+  - name: 标签
     url: /tags
 
-# Pagination
+# 每页的文章数
 paginate: 8
 
+# 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
-# Includes an icon in the footer for each username you enter
+# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ll-chen-2
-  email: lemonchann@foxmail.com
+  zhihu: da-ning-40
+  email: 767600461@qq.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: NeedQuiet 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +58,7 @@ footer-links:
   #twitter: frommidworld
   youtube:
 
-# Text under the icons in footer
+# 站点页脚的文字
 footer-text: Copyright (c) 2019 lemonchann
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -69,21 +72,19 @@ gitalk:
   repo: lemonchann.github.io
   owner: lemonchann
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-152888548-1
+# 输入Google Analytics web tracking code
+google_analytics: # UA-152888548-1
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+url: https://needquiet.github.io
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# 添加你的博客的二级域名，一般来说是你的repository名
+# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
+# 那么就写成 "/repository-name"
 # baseurl: 
 
 #
-# !! You don't need to change any of the configuration flags below !!
+# !! 以下所有设置都不需要更改 !!
 #
 
 permalink: /:title/

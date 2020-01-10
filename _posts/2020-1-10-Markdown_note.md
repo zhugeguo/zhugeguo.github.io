@@ -42,16 +42,17 @@ print('python 代码块？')
 
 2. html
 ```html
-<!-- 示例 ```html -->
 <h1>哎哟不错哦</h1>
+<!-- 示例 ```html -->
 ```
+
 
 3. OC
 ```ObjectiveC
 int a = 0;
-// 示例 ```ObjectiveC
 NSArray * testArr = @[@"asdasd",@"awww"];
 UIlabel * a = [[UILabel alloc]init];
+// 示例 ```ObjectiveC
 ```
 
 ## 4.菜单
